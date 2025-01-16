@@ -2,6 +2,9 @@
 
 This is a Python-based reminder application built using `PyQt5` for the graphical user interface (GUI), `sqlite3` for the database, and `plyer` for notifications. The app allows users to create, view, and delete reminders. It checks reminders every minute and sends notifications when the set reminder time is reached.
 
+![reminderApp](https://github.com/user-attachments/assets/6faa3b86-ab0b-4f13-a1e7-f7b755cff1d3)
+
+
 ## Features
 
 - **Add Reminder**: Allows users to add a reminder with a title, description, start date, end date, and a reminder date and time.
